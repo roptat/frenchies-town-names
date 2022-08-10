@@ -19,7 +19,7 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 
-from grf.grf import GRF, Header, TownNames, TownName, TownReference, TownString
+from grf.grf import GRF, Header, TownNames, TownName, TownReference, TownString, Blank
 import re
 
 grf = GRF("frenchies-town-names.grf")
@@ -825,5 +825,7 @@ grf.actions.append(TownNames([saints, hydronyms, germanic,
     regionym_start, regionym_end, regionyms,
     extensions_en, extensions_de, extensions_d, extensions_sur, extensions, maybe_extension,
     saint, anthro, germanic_names, cities]))
+
+grf.actions.append(Blank())
 
 grf.output()
