@@ -28,6 +28,14 @@ Je compte ajouter plus tard plus d'options pour générer des noms régionaux, m
 l'instant vous aurez des noms réalistes mais qui seront des mélanges de plusieurs régions
 dans la même partie.
 
+## Build
+
+To build the NewGRF, try this:
+
+```bash
+python3 generate.py
+```
+
 ## License
 
 This NewGRF is distributed under the GPL3+ license. You are free to use, study, copy or modify
