@@ -22,7 +22,7 @@
 from grf.grf import GRF, Header, TownNames, TownName, TownReference, TownString
 import re
 
-grf = GRF("frenchies.grf")
+grf = GRF("frenchies-town-names.grf")
 
 ## Strings and metadata
 DESCRIPTIONS = {
