@@ -35,7 +35,7 @@ NewGRF proposent des noms tirés dans une liste de villes existantes. C’est \
 pas drôle. Ce NewGRF propose des noms de villes amusants à consonnance \
 française générés aléatoirement pour toutes vos parties d’OpenTTD !",
 }
-NAME = "Frenchies Town Names v0.1"
+NAME = "Frenchies Town Names"
 
 grf.actions.append(Header({'en': NAME}, DESCRIPTIONS,
     'https://github.com/roptat/frenchies-town-names', 1, 0, b'Rop\x01'))
