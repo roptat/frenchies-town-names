@@ -1,6 +1,6 @@
 # frenchies-town-names
     
-> « Le train TER numéro 98058 à destination de Pontvif va partir. Il desserivar les gares de
+> « Le train TER numéro 98058 à destination de Pontvif va partir. Il desservira les gares de
 > Sainte-Foy-le-Grand, Saint-Bonnet-la-Ville, Pontbel, Pignanvilliers, Castelvaux, Écailhé,
 > Trauzoc et Pontvif, son terminus. Prenez garde à la fermeture automatique des portes. »
 
