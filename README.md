@@ -6,6 +6,8 @@
 
 OpenTTD NewGRF for generating French-sounding city names.
 
+![Screenshot of Generated City Names in Game](frenchies.png)
+
 Other NewGRFs exist for French city names, but they are all created from a list of *real*
 cities in France. I don't find it particularly interesting, so I decided to use a similar
 method to how English city names are generated in the game. If you find issues with the
